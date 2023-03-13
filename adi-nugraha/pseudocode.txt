@@ -1,0 +1,9 @@
+tutorial_membuat-susu
+
+Mulai.
+Susu, air hangat, gelas, dan es batu.
+Input susu
+Input air hangat
+Aduk hingga tercampur merata.
+IF (air === true) then Input es batu:
+Susu sudah siap untuk di nikmati.
